@@ -1,5 +1,6 @@
 
-<Book>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="movies1.xsd">
     <Book>
         <Title> The fellowship of the Ring</Title>
         <Released> 2001 </Released>
