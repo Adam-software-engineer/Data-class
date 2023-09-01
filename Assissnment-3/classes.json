@@ -1,28 +1,28 @@
-{
-    "Class": [
+[
 
-        {
-            "Title": "C# Introduction to programming",
-            "Lead": "Brian Foote",
-            "Credits": "3"
-        },
 
-        {
-            "Title": "JavaScript",
-            "Lead": "Donna Gehl",
-            "Credits": "3"
-        },
+    {
+        "Title": "C# Introduction to programming",
+        "Lead": "Brian Foote",
+        "Credits": 0
+    },
 
-        {
-            "Title": "PHP",
-            "Lead": "Joseph Wetzel",
-            "Credits": "3"
-        },
+    {
+        "Title": "JavaScript",
+        "Lead": "Donna Gehl",
+        "Credits": 0
+    },
 
-        {
-            "Title": "C++ Programming",
-            "Lead": "Ryan Appel",
-            "Credits": "3"
-        }
-    ]
-}
+    {
+        "Title": "PHP",
+        "Lead": "Joseph Wetzel",
+        "Credits": 0
+    },
+
+    {
+        "Title": "C++ Programming",
+        "Lead": "Ryan Appel",
+        "Credits": 0
+    }
+
+]
