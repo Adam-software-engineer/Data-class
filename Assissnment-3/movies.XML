@@ -1,4 +1,4 @@
-<?xml-model href="movies.xsd"?>
+
 <Book>
     <Book>
         <Title> The fellowship of the Ring</Title>
@@ -8,10 +8,12 @@
             <Name> Elijah Wood </Name>
         </Main>
     </Book>
+    <Book>
         <Title> The Empire Strikes Back </Title>
         <Released> 1980 </Released>
         <Main> 
             <Name> Luke SKywalker </Name>
             <Name> Mark Hamill </Name>
         </Main>
+    </Book>    
 </Book>
