@@ -1,20 +1,19 @@
 
-<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="movies1.xsd">
-    <Book>
+<Book>
+    <Book id = "1">
         <Title> The fellowship of the Ring</Title>
         <Released> 2001 </Released>
         <Main> 
             <Name> Frodo Baggins </Name>
-            <Name> Elijah Wood </Name>
+            <Actor> Elijah Wood </Actor>
         </Main>
     </Book>
-    <Book>
+    <Book id = "2">
         <Title> The Empire Strikes Back </Title>
         <Released> 1980 </Released>
         <Main> 
             <Name> Luke SKywalker </Name>
-            <Name> Mark Hamill </Name>
+            <Actor> Mark Hamill </Actor>
         </Main>
     </Book>    
 </Book>
