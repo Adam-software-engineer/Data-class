@@ -1,0 +1,11 @@
+[{
+        "City": "Green_bay",
+        "first_name": ["Jordan", "David"],
+        "last_name": ["Love", "Bakhtiari"]
+    },
+    {
+        "City": "Milwaukee",
+        "first_name": ["christian", "Khris", "Jrue", "Willy"],
+        "last_name": ["Yelich", "Middleton", "Holliday", "Adames"]
+    }
+]
